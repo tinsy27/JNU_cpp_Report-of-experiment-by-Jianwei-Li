@@ -1,5 +1,5 @@
-# JNU-XinJi_cpp_Report-of-experiment-by-Jianwei-Li
-#江南大学信息与计算科学专业c++程序设计实验报告  
-#感谢President Jianwei Li  
-#仅供拜读  
-#by the principal secretary of Pres.Li  
+Information and Computing Sciences, school of science, Jiangnan University in Wuxi, China  
+Report of experiment of CPP  
+Thank you, President Jianwei Li  
+For having the honour to read only  
+The secretary of Pres.Li was last edited on November 9, 2022  
